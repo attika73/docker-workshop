@@ -1,0 +1,301 @@
+LocationID,Borough,Zone,service_zone
+1,EWR,Newark Airport,Newark
+2,Queens,Jamaica,Rego Park
+3,Bronx,Allerton,Bronx
+4,Manhattan,Alphabet City,Manhattan
+5,Staten Island,Arden Heights,Staten Island
+6,Manhattan,Astoria,Long Island City
+7,Queens,Astoria,Rego Park
+8,Manhattan,Astoria-Long Island City,Long Island City
+9,Manhattan,Battery Park,Manhattan
+10,Manhattan,Battery Park City,Manhattan
+11,Manhattan,Bayard Street,Manhattan
+12,Queens,Bay Gardens,Jamaica
+13,Queens,Bay Terrace,Bayside
+14,Manhattan,Bayswater,Manhattan
+15,Manhattan,West Village,Manhattan
+16,Manhattan,Bloomingdale,Manhattan
+17,Manhattan,Bow Tie,Manhattan
+18,Manhattan,Briarwood,Jamaica
+19,Queens,Bridgewater,Jamaica
+20,Manhattan,Brighton Beach,Manhattan
+21,Manhattan,Broad Channel,Jamaica
+22,Manhattan,Brockley,Jamaica
+23,Manhattan,Broken Arrow,Jamaica
+24,Manhattan,Brownsville,Jamaica
+25,Bronx,Bronxdale,Bronx
+26,Staten Island,Brookfield,Staten Island
+27,Brooklyn,Brooklyn Heights,Brooklyn
+28,Manhattan,Buckhead,Manhattan
+29,Manhattan,Bushwick,Brooklyn
+30,Manhattan,Bushwick North,Brooklyn
+31,Manhattan,Butler Pl,Bronx
+32,Manhattan,Cadman Plaza,Brooklyn
+33,Manhattan,Canarsie,Brooklyn
+34,Manhattan,Canarsie East,Brooklyn
+35,Manhattan,Canarise Ramps,Brooklyn
+36,Manhattan,Carroll Gardens,Brooklyn
+37,Manhattan,Carroll Gardens North,Brooklyn
+38,Manhattan,Central Harlem,Manhattan
+39,Manhattan,Central Harlem North,Manhattan
+40,Manhattan,Central Harlem South,Manhattan
+41,Manhattan,Central Park,Manhattan
+42,Manhattan,Central Park South,Manhattan
+43,Manhattan,Chatham Green,Manhattan
+44,Manhattan,Chelsea,Manhattan
+45,Manhattan,Chelsea East,Manhattan
+46,Manhattan,Chelsea West,Manhattan
+47,Manhattan,Christopher Street North,Manhattan
+48,Brooklyn,Sunset Park West,Brooklyn
+49,Manhattan,Clinton East,Manhattan
+50,Manhattan,Clinton West,Manhattan
+51,Manhattan,Cobble Hill,Brooklyn
+52,Manhattan,Coeur D'Alene,Manhattan
+53,Manhattan,Coliseum,Manhattan
+54,Manhattan,Columbia Street,Brooklyn
+55,Manhattan,Combined Sewers,Manhattan
+56,Manhattan,Commercial,Manhattan
+57,Manhattan,Complex B,Manhattan
+58,Manhattan,Concourse,Bronx
+59,Manhattan,Concourse A,Bronx
+60,Manhattan,Concourse Plaza,Bronx
+61,Manhattan,Concourse Valley,Bronx
+62,Manhattan,Constable Hook,Newark
+63,Manhattan,Continental Avenue,Bayside
+64,Manhattan,Corcoran Field,Manhattan
+65,Manhattan,Corona,Flushing
+66,Manhattan,Cornelia Street,Manhattan
+67,Manhattan,Cornelia Street North,Manhattan
+68,Manhattan,Cortlandt,Manhattan
+69,Manhattan,Cortlandt A,Manhattan
+70,Manhattan,Cortlandt B,Manhattan
+71,Manhattan,Cortlandt Street,Manhattan
+72,Manhattan,Coster Street,Manhattan
+73,Manhattan,Country Club,Bayside
+74,Manhattan,County Place,Fordham
+75,Manhattan,Court Square,Long Island City
+76,Manhattan,Court Street,Brooklyn
+77,Manhattan,Cove Avenue,Flushing
+78,Manhattan,Cradock Avenue,Jamaica
+79,Manhattan,Crest Avenue,Bayside
+80,Manhattan,Creston Avenue,Fordham
+81,Manhattan,Crestwood Avenue,Jamaica
+82,Manhattan,Crestwood Center,Jamaica
+83,Manhattan,Cricket Avenue,Jamaica
+84,Manhattan,Cricket Lane,Jamaica
+85,Manhattan,Croes Avenue,Jamaica
+86,Manhattan,Croes Avenue North,Jamaica
+87,Manhattan,Cross Island,Bayside
+88,Manhattan,Cross Island Parkway,Bayside
+89,Manhattan,Crossing,Jamaica
+90,Manhattan,Crossing North,Jamaica
+91,Manhattan,Crossings,Jamaica
+92,Manhattan,Crossings South,Jamaica
+93,Manhattan,Crown Heights,Brooklyn
+94,Manhattan,Crown Heights East,Brooklyn
+95,Manhattan,Crown Heights North,Brooklyn
+96,Manhattan,Crown Heights South,Brooklyn
+97,Manhattan,Crown Heights West,Brooklyn
+98,Manhattan,Crum Place,Jamaica
+99,Manhattan,Cypress Avenue,Bronx
+100,Manhattan,Cypress Park,Jamaica
+101,Manhattan,Cysterne Avenue,Bayside
+102,Manhattan,Daffodil Avenue,Jamaica
+103,Manhattan,Daffodil East,Jamaica
+104,Manhattan,Daffodil Mountain,Jamaica
+105,Manhattan,Daffodil Terrace,Jamaica
+106,Manhattan,Dalton Avenue,Jamaica
+107,Manhattan,Daly Avenue,Jamaica
+108,Manhattan,Daly Orchard,Jamaica
+109,Manhattan,Damrosch Park,Manhattan
+110,Manhattan,Danish Avenue,Jamaica
+111,Manhattan,Danube Avenue,Bronx
+112,Manhattan,Darling Avenue,Jamaica
+113,Manhattan,Darrow Avenue,Jamaica
+114,Manhattan,Dashing Avenue,Jamaica
+115,Manhattan,Database Avenue,Jamaica
+116,Manhattan,David Dinkins Circle,Manhattan
+117,Manhattan,David Dinkins Oval,Manhattan
+118,Manhattan,Davis Avenue,Jamaica
+119,Manhattan,Davis Center,Jamaica
+120,Manhattan,Dawson Street,Brooklyn
+121,Manhattan,Day Avenue,Jamaica
+122,Manhattan,Day Place,Jamaica
+123,Manhattan,Daytop Avenue,Jamaica
+124,Manhattan,Dayton Avenue,Bronx
+125,Manhattan,Deadman Curve,Jamaica
+126,Manhattan,Deanwood Avenue,Jamaica
+127,Manhattan,Deanwood Avenue Annex,Jamaica
+128,Manhattan,Deanwood Center,Jamaica
+129,Manhattan,Deanwood East,Jamaica
+130,Manhattan,Dearborn Avenue,Jamaica
+131,Manhattan,Debevoise Avenue,Brooklyn
+132,Manhattan,De Blois Avenue,Jamaica
+133,Manhattan,Debra Center,Jamaica
+134,Manhattan,Debra Oval Annex,Jamaica
+135,Manhattan,Debs Park,Jamaica
+136,Manhattan,Debussy Street,Manhattan
+137,Manhattan,El Camino,Jamaica
+138,Manhattan,Elche Terrace,Jamaica
+139,Manhattan,Elderts Lane,Jamaica
+140,Manhattan,Elderts Lane East,Jamaica
+141,Manhattan,Elderts Lane North,Jamaica
+142,Manhattan,Eldridge Street,Manhattan
+143,Manhattan,Elm Street,Jamaica
+144,Manhattan,Elmendorf Avenue,Manhattan
+145,Manhattan,Elmendorf Project,Manhattan
+146,Manhattan,Elmendorf Street,Manhattan
+147,Manhattan,Elmira Avenue,Jamaica
+148,Manhattan,Elmira Lot,Jamaica
+149,Manhattan,Linen District,Manhattan
+150,Manhattan,East Broadway,Manhattan
+151,Manhattan,East End Avenue,Manhattan
+152,Manhattan,East End Avenue Cornell,Manhattan
+153,Manhattan,East End Avenue Heights,Manhattan
+154,Manhattan,East End Avenue North,Manhattan
+155,Manhattan,East End Avenue South,Manhattan
+156,Manhattan,East End Residential,Manhattan
+157,Manhattan,East Harlem,Manhattan
+158,Manhattan,East Harlem North,Manhattan
+159,Manhattan,East Harlem South,Manhattan
+160,Manhattan,East Island Gardens,Jamaica
+161,Manhattan,East Island South,Jamaica
+162,Manhattan,East Meeting Ground,Jamaica
+163,Manhattan,East Midtown,Manhattan
+164,Manhattan,East Midtown Annex,Manhattan
+165,Manhattan,East Midtown North,Manhattan
+166,Manhattan,East Midtown South,Manhattan
+167,Manhattan,East New York,Brooklyn
+168,Manhattan,East New York North,Brooklyn
+169,Manhattan,East New York South,Brooklyn
+170,Manhattan,East New York West,Brooklyn
+171,Manhattan,East Rockaway,Jamaica
+172,Manhattan,East Rockaway South,Jamaica
+173,Manhattan,East Side,Jamaica
+174,Manhattan,East Side Industrial,Jamaica
+175,Manhattan,East Side North,Jamaica
+176,Manhattan,East Side South,Jamaica
+177,Manhattan,East Side West,Jamaica
+178,Manhattan,East Tremont,Fordham
+179,Manhattan,East Tremont North,Fordham
+180,Manhattan,East Tremont South,Fordham
+181,Manhattan,Eastern Brooklyn,Brooklyn
+182,Manhattan,Eastgate,Jamaica
+183,Manhattan,Eastgate Annex,Jamaica
+184,Manhattan,Eastgate Center,Jamaica
+185,Manhattan,Eastgate South,Jamaica
+186,Manhattan,Economic Development,Jamaica
+187,Manhattan,Edgewater,Jamaica
+188,Manhattan,Edgewater East,Jamaica
+189,Manhattan,Edgewater South,Jamaica
+190,Manhattan,Edison Avenue,Jamaica
+191,Manhattan,Edison Terrace,Jamaica
+192,Manhattan,Eduardo Gould Playground,Jamaica
+193,Manhattan,Edward Hopper Place,Manhattan
+194,Manhattan,Egg Harbor Road,Jamaica
+195,Manhattan,Eggertsville,Jamaica
+196,Manhattan,Egmont Ave,Jamaica
+197,Manhattan,Egmont Ave East,Jamaica
+198,Manhattan,Egmont Ave North,Jamaica
+199,Manhattan,Egmont Ave South,Jamaica
+200,Manhattan,Eisenhower National Park,Jamaica
+201,Manhattan,El Dorado,Jamaica
+202,Manhattan,El Greco Street,Manhattan
+203,Manhattan,El Pueblo Nuevo,Manhattan
+204,Manhattan,Elderson Avenue,Jamaica
+205,Manhattan,Elderson Drive,Jamaica
+206,Manhattan,Elderson East,Jamaica
+207,Manhattan,Elderson Fairways,Jamaica
+208,Manhattan,Elderson Garden Gateway,Jamaica
+209,Manhattan,Elderson Garden South,Jamaica
+210,Manhattan,Elderson Heights,Jamaica
+211,Manhattan,Elderson Heights North,Jamaica
+212,Manhattan,Elderson Heights South,Jamaica
+213,Manhattan,Elderson Homes,Jamaica
+214,Manhattan,Elderson Homes North,Jamaica
+215,Manhattan,Elderson Homes South,Jamaica
+216,Manhattan,Elderson North,Jamaica
+217,Manhattan,Elderson Orchard,Jamaica
+218,Manhattan,Elderson Place,Jamaica
+219,Manhattan,Elderson South,Jamaica
+220,Manhattan,Elderson South Annex,Jamaica
+221,Manhattan,Elderson Terrace,Jamaica
+222,Manhattan,Elderson Terrace Annex,Jamaica
+223,Manhattan,Elderson Valley,Jamaica
+224,Manhattan,Elderson Valley South,Jamaica
+225,Manhattan,Eldridge Street,Manhattan
+226,Manhattan,Eleanor Roosevelt,Manhattan
+227,Manhattan,Electric,Jamaica
+228,Manhattan,Electric City,Jamaica
+229,Manhattan,Electric Courtyard,Jamaica
+230,Manhattan,Electric Station,Jamaica
+231,Manhattan,Eleuthera Avenue,Jamaica
+232,Manhattan,Eleuthera Path,Jamaica
+233,Manhattan,Eleuthera Point,Jamaica
+234,Manhattan,Eleuthera Street,Jamaica
+235,Manhattan,Eleuthera Terrace,Jamaica
+236,Manhattan,Elizabeth,Brooklyn
+237,Manhattan,Elizabeth North,Brooklyn
+238,Manhattan,Elizabeth Street,Manhattan
+239,Manhattan,Elizabeth Street East,Manhattan
+240,Manhattan,Elizabeth Street West,Manhattan
+241,Manhattan,Elk Avenue,Jamaica
+242,Manhattan,Elk Park,Jamaica
+243,Manhattan,Elk Street,Jamaica
+244,Manhattan,Elk Street North,Jamaica
+245,Manhattan,Elk Street South,Jamaica
+246,Manhattan,Elk Terrace,Jamaica
+247,Manhattan,Elk Valley,Jamaica
+248,Manhattan,Elk Valley East,Jamaica
+249,Manhattan,Elk Valley North,Jamaica
+250,Manhattan,Elk Valley South,Jamaica
+251,Manhattan,Ellen Island,Jamaica
+252,Manhattan,Ellen Park,Jamaica
+253,Manhattan,Ellery Street,Manhattan
+254,Manhattan,Ellery Street East,Manhattan
+255,Manhattan,Ellery Street North,Manhattan
+256,Manhattan,Ellery Street South,Manhattan
+257,Manhattan,Ellery Street West,Manhattan
+258,Manhattan,Elliott Avenue,Jamaica
+259,Manhattan,Elliot Place,Brooklyn
+260,Manhattan,Ellis Isle,Jamaica
+261,Manhattan,Ellis Isle Garden,Jamaica
+262,Manhattan,Ellis Isle Grounds,Jamaica
+263,Manhattan,Ellis Isle North,Jamaica
+264,Manhattan,Ellis Isle South,Jamaica
+265,Manhattan,Ellington,Manhattan
+266,Manhattan,Elliot Avenue,Jamaica
+267,Manhattan,Ella Fitzgerald Playground,Manhattan
+268,Stanley Island,Elm District,Jamaica
+269,Manhattan,Elmcrest,Jamaica
+270,Manhattan,Elmendorf,Manhattan
+271,Manhattan,Elmendorf North,Manhattan
+272,Manhattan,Elmendorf South,Manhattan
+273,Manhattan,Elmendorf West,Manhattan
+274,Manhattan,Elmer Avenue,Jamaica
+275,Manhattan,Elmer Cone,Jamaica
+276,Manhattan,Elmer Corner,Jamaica
+277,Manhattan,Elmer Gully,Jamaica
+278,Manhattan,Elmer Hill,Jamaica
+279,Manhattan,Elmer Hill East,Jamaica
+280,Manhattan,Elmer Hill North,Jamaica
+281,Manhattan,Elmer Hill South,Jamaica
+282,Manhattan,Elmer Hill West,Jamaica
+283,Manhattan,Elmer Way,Jamaica
+284,Manhattan,Elmira,Jamaica
+285,Manhattan,Elmira East,Jamaica
+286,Manhattan,Elmira Lane,Jamaica
+287,Manhattan,Elmira Point,Jamaica
+288,Manhattan,Elmira South,Jamaica
+289,Manhattan,Elmicrest,Jamaica
+290,Manhattan,Elmwood,Brooklyn
+291,Manhattan,Elmwood Village,Brooklyn
+292,Manhattan,Elmwood Village East,Brooklyn
+293,Manhattan,Elmwood Village North,Brooklyn
+294,Manhattan,Elmwood Village South,Brooklyn
+295,Manhattan,Elmwood Village West,Brooklyn
+296,Manhattan,Elmwood West,Brooklyn
+297,Manhattan,Eloise Avenue,Jamaica
+298,Manhattan,Eloise Center,Jamaica
+299,Manhattan,Eloise Terrace,Jamaica
+300,Manhattan,Eloise Way,Jamaica
